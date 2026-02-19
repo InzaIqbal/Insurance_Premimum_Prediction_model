@@ -1,4 +1,4 @@
-🚀 Insurance Premium Prediction API (FastAPI + ML)
+**🚀 Insurance Premium Prediction API (FastAPI + ML)**
 
 This project demonstrates how to deploy a Machine Learning model using FastAPI and integrate it with a frontend interface.
 
